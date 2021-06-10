@@ -2,6 +2,5 @@
 
 - 🌱 Currently learning pentesting
 - 🔭 Working on Networking
-- 📫 How to reach me: Discord @zOe#6567
 - 😄 Pronouns: She/Her
 
