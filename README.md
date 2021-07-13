@@ -2,5 +2,3 @@
 
 - 🌱 Currently learning pentesting
 - 🔭 Working on Networking
-- 😄 Pronouns: She/Her
-
