@@ -3,3 +3,12 @@
 - 🚀 Working on Machine learning project.
 - 🌱 Currently learning Networking.
 - 📚 Love reading books and writing poems. 
+
+<details>
+<summary> Stats </summary>
+
+![default](https://github-readme-stats.vercel.app/api?username=ahtihska&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=gruvbox)
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahtihska&layout=compact&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=gruvbox)
+
+ </details>
