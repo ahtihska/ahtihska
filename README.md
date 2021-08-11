@@ -7,6 +7,8 @@
 <details>
 <summary> Stats </summary>
 
+ <br>
+
 ![default](https://github-readme-stats.vercel.app/api?username=ahtihska&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=omni)
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahtihska&layout=compact&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=omni)
