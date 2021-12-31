@@ -1,4 +1,4 @@
-### Hello! I'm Akshitha <img src="https://raw.githubusercontent.com/Calatop/Calatop/main/img/wave.gif" width="24px">
+### Hello! I'm Akshitha 
 
 - 🚀 Working on Machine learning project.
 - 🌱 Currently learning Networking.
